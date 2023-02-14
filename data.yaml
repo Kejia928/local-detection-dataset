@@ -1,0 +1,9 @@
+path: ../dataset/coco128
+train: images/train2017
+val: images/train2017
+test: images/test2017
+
+# Classes
+names:
+  0: Fish
+  1: Penguin
