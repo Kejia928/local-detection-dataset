@@ -1,4 +1,4 @@
-path: ../dataset/coco128
+path: ../video-dataset/coco128
 train: images/train2017
 val: images/train2017
 test: images/test2017
