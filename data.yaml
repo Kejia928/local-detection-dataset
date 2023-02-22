@@ -1,9 +1,10 @@
 path: ../video-dataset/coco128
-train: images/train2017
-val: images/train2017
-test: images/test2017
+train: images/train
+val: images/test
+test: images/test
 
 # Classes
 names:
-  0: Fish
-  1: Penguin
+  0: Bubble
+  1: Fish
+  2: Penguin
