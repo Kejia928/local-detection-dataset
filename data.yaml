@@ -5,6 +5,5 @@ test: images/test
 
 # Classes
 names:
-  0: Bubble
-  1: Fish
-  2: Penguin
+  0: Fish
+  1: Penguin
